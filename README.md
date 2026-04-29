@@ -1,6 +1,6 @@
 # NASA Gallery Scraper
 
-A lightweight Python utility that scrapes high‑resolution images from the NASA Artemis II "Return to Earth" gallery and generates markdown files ready for static‑site generators such as Jekyll.
+A lightweight Python utility that scrapes image metadata from the NASA Artemis II "Return to Earth" gallery and generates markdown files ready for static‑site generators such as Jekyll.
 
 ## Features
 - Automatic extraction of image URLs, alt‑text, and full descriptions.
