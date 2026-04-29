@@ -31,5 +31,23 @@ python nasa_gallery_scraper.py https://www.nasa.gov/gallery/return-to-earth/
 ```
 The script will create a `_gallery/artemis-ii/<slug>.md` file for each image it discovers.
 
+NASA gallery links:
+
+https://www.nasa.gov/gallery/journey-to-the-moon/
+https://www.nasa.gov/gallery/artemis-ii-launch/
+https://www.nasa.gov/gallery/artemis-ii-astronauts/
+https://www.nasa.gov/gallery/artemis-ii-flight-day-highlights/
+https://www.nasa.gov/gallery/artemis-ii-mission-science/
+https://www.nasa.gov/gallery/nasas-space-launch-system-rocket/
+https://www.nasa.gov/gallery/nasas-orion-spacecraft/
+https://www.nasa.gov/gallery/ground-systems/
+https://www.nasa.gov/gallery/nasas-space-launch-system-rocket/page/2/
+https://www.nasa.gov/gallery/nasas-space-launch-system-rocket/page/3/
+
+https://www.nasa.gov/gallery/artemis-ii-splashdown-and-return/page/3/
+https://www.nasa.gov/gallery/artemis-ii-splashdown-and-return/page/2/
+https://www.nasa.gov/gallery/artemis-ii-splashdown-and-return/
+
+
 ## License
 MIT © 2026 Richard Djarbeng – see the [LICENSE](LICENSE) file for details.
